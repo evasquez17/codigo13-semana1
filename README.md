@@ -62,3 +62,10 @@ git pull origin main
 git clon
 ```
 - Descarga toda la carpeta dese github.com
+
+
+```
+git checkout nombre_del_branch
+```
+- Sirve para poder moverme entre ramas
+- :eye: Si el checkout no tiene -b solamente es para moverse entre ramas
