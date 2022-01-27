@@ -57,3 +57,8 @@ git checkout nombre_del_branch
 git pull origin main
 ```
 - Sirve para poder descargar los cambios de nuestro repositario en la nube, en este caso github
+
+```
+git clon
+```
+- Descarga toda la carpeta dese github.com
