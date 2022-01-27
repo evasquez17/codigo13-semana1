@@ -51,3 +51,9 @@ git checkout nombre_del_branch
 ```
 - Sirve para poder moverme entre ramas
 - Si el checkout no tiene el -b solo es para moverse
+
+
+```
+git pull origin main
+```
+- Sirve para poder descargar los cambios de nuestro repositario en la nube, en este caso github
